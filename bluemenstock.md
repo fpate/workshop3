@@ -1,6 +1,6 @@
 Bluemenstock response
-#Fatima Pate 
-#01/28/2020
+Fatima Pate 
+01/28/2020
 
 Bluemenstock’s main argument is that big data should not disregard human development in its advancement. He begins by explaining the promises of data science. The recent increase in mobile technology has allowed for data scientists and major corporations such as Google and Facebook to track individuals “digital signatures” and “digital footprints” in order to provide the most efficient mode of help. For example, an individual in Africa’s digital footprint may indicate whether they are wealthy or poor and their living condition. Based on this, it will be easier to provide help during times of crisis or an epidemic. 
 Although these tools do have the ability to contribute positively to human development, they are not perfect. The four problems outlined by Blumenstock regarding the ways in which data science attempts to impact human development includes unanticipated effects, lack of validation, biased algorithms and lack of regulation. The first major issue is that “Solutions enabled by
