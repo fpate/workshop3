@@ -1,11 +1,9 @@
 # Catalog of work
 
-## Response to readings
+## Responses to readings
 
 [Blumenstock response](https://github.com/fpate/workshop3/blob/master/bluemenstock.md)
 
+## Assignments
 
-
-Projects 
-
-Assignments
+[Assignment 1 Annotated Bibliography]
