@@ -10,4 +10,4 @@
 
 ## Assignments
 
-[Assignment 1 Annotated Bibliography]
+[Assignment 1 Annotated Bibliography](https://github.com/fpate/workshop3/blob/master/Assignment1.md)(Feb.23)
