@@ -4,7 +4,7 @@
 
 [Blumenstock response](https://github.com/fpate/workshop3/blob/master/bluemenstock.md)(Jan.27)
 
-[Jahan and Rosling Response]
+[Jahan and Rosling Response](https://github.com/fpate/workshop3/blob/master/Podcast_jahan.md) (Feb.3)
 
 [Owen Barder Response]
 
