@@ -2,7 +2,7 @@
 
 ## Responses to readings
 
-[Blumenstock response](https://github.com/fpate/workshop3/blob/master/bluemenstock.md)(Jan.27)
+[Blumenstock response](https://fpate.github.io/workshop3/bluemenstock)(Jan.27)
 
 [Jahan and Rosling Response](https://github.com/fpate/workshop3/blob/master/Podcast_jahan.md) (Feb.3)
 
