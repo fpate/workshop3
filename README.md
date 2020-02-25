@@ -8,7 +8,7 @@
 
 [Owen Barder Response]
 
-[Anderson & Kitchin](
+[Anderson & Kitchin](https://github.com/fpate/workshop3/blob/master/Anderson&Kitchin.md) (Feb.25)
 ## Assignments
 
 [Assignment 1 Annotated Bibliography](https://github.com/fpate/workshop3/blob/master/Assignment1.md)(Feb.23)
