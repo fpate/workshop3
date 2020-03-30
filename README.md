@@ -9,6 +9,8 @@
 [Owen Barder Response]
 
 [Anderson & Kitchin](https://fpate.github.io/workshop3/Anderson&Kitchin) (Feb.25)
+
+[Stevens et al.](https://fpate.github.io/workshop3/Stevensetal.) (Mar. 30)
 ## Assignments
 
 [Assignment 1 Annotated Bibliography](https://github.com/fpate/workshop3/blob/master/Assignment1.md)(Feb.23)
