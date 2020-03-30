@@ -10,7 +10,7 @@
 
 [Anderson & Kitchin](https://fpate.github.io/workshop3/Anderson&Kitchin) (Feb.25)
 
-[Stevens et al.](https://github.com/fpate/workshop3/blob/master/Stevens) (Mar. 30)
+[Stevens et al.](https://github.com/fpate/workshop3/blob/master/Stevens.md) (Mar. 30)
 ## Assignments
 
 [Assignment 1 Annotated Bibliography](https://github.com/fpate/workshop3/blob/master/Assignment1.md)(Feb.23)
