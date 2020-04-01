@@ -12,7 +12,7 @@
 
 [Stevens et al.](https://github.com/fpate/workshop3/blob/master/Stevens.md) (Mar. 30)
 
-[Nieves et al.] (https://github.com/fpate/workshop3/blob/master/Nieves.md) (Mar. 31)
+[Nieves et al.](https://github.com/fpate/workshop3/blob/master/Nieves.md) (Mar. 31)
 
 ## Assignments
 
