@@ -11,6 +11,9 @@
 [Anderson & Kitchin](https://fpate.github.io/workshop3/Anderson&Kitchin) (Feb.25)
 
 [Stevens et al.](https://github.com/fpate/workshop3/blob/master/Stevens.md) (Mar. 30)
+
+[Nieves et al.] (https://github.com/fpate/workshop3/blob/master/Nieves.md) (Mar. 31)
+
 ## Assignments
 
 [Assignment 1 Annotated Bibliography](https://github.com/fpate/workshop3/blob/master/Assignment1.md)(Feb.23)
