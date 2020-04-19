@@ -33,7 +33,7 @@ To implement the above calculations, Bayesian inference was used to provide marg
 
 Table 1 shows the coefficients of the covariates used in the model. The  magnitude, direction and significance of the coefficients greatly varied across the indicators which allows relationships to be identified. For example, areas with more nighttime lights were associated with better sewage systems. In Table 2 below, correlation between observed and predicted values were high with 0.8 correlation for most of the indicators while sewerage connection had the lowest correlation of 0.241. The mean absolute errors were of low value indicating good model performance and the mean squared error which measures the model performance (bias and variance) was low as well. 
 
-![img5](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.35.30%20PM.png0
+![img5](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.35.30%20PM.png0)
 
 Figure 3 below displays uncertainty levels for specific indicators. The map indicates that areas with high population density will have higher levels of estimated precision and vice versa.  
 
@@ -61,7 +61,7 @@ Table 4 presents the results of the multinomial logistic regression model. Acros
 
 ![img11](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.38.39%20PM.png)
 
-####Discussion
+#### Discussion
 
 Although Ajisegiri, B et al. and Solanke, B. L focused their research on different aspects of development in Nigeria and used varying machine learning models, in the context of my research, both must be analyzed through the lens of the other. Ajisegiri, B et al. used model-based geostatistics to map out areas of water and sanitation. Solanke, B. L used two models, Poisson regression and multinomial logistic regression, to determine the relationship between age at first marriage, fertility and women empowerment. The relationship of these two articles appears when studying the extent of intersectionality between poverty and gender inequality. Lack of clean water and sanitation decreases any human beings freedoms as described by Amartya Sen’s Development As Freedom (1999). Specifically, it decreases women's freedoms because clean water and sanitation is necessary for menstrual hygiene, pregnancy, and overall general health. By getting a greater understanding of the extent of gender inequality through articles like Solanke, B. L and with high-resolution maps that indicate low quality of water which indicates high rates of poverty, better solutions for poverty and gender inequality can be generated. All three models, MBG, poisson regression and multinomial logistic regression contribute to the research in different ways. MBG allows for better mapping of populations, Poisson regression tells which explanatory variables influence the response variable and multinomial logistic regression allows for more than two groups of the outcome variables for probability analysis.  To begin to answer the question of “How effective are machine learning methods such as MBG, Poisson regression, and multinomial logistic regression at giving data that can be used to study the intersectionality of poverty and gender inequality and to what extent does one influence the other?”, these methods are most effective when combined with one another and by the results of both articles, poverty and gender inequality greatly influence one another. 
 
