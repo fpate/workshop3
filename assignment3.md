@@ -33,7 +33,7 @@ To implement the above calculations, Bayesian inference was used to provide marg
 
 Table 1 shows the coefficients of the covariates used in the model. The  magnitude, direction and significance of the coefficients greatly varied across the indicators which allows relationships to be identified. For example, areas with more nighttime lights were associated with better sewage systems. In Table 2 below, correlation between observed and predicted values were high with 0.8 correlation for most of the indicators while sewerage connection had the lowest correlation of 0.241. The mean absolute errors were of low value indicating good model performance and the mean squared error which measures the model performance (bias and variance) was low as well. 
 
-![img5](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.35.30%20PM.png0)
+![img5](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.35.30%20PM.png)
 
 Figure 3 below displays uncertainty levels for specific indicators. The map indicates that areas with high population density will have higher levels of estimated precision and vice versa.  
 
