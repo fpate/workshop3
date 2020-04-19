@@ -43,7 +43,7 @@ In conclusion, this research gathered information from households, water points,
 
 ![img7](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.36.51%20PM.png)
 
-[img8](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.37.15%20PM.png)
+![img8](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.37.15%20PM.png)
 
 #### Method 2- Poisson Regression and Multinomial Logistic Regression Model 
 
