@@ -20,15 +20,30 @@ With little access to clean water and sanitation, women can not expand their fre
 ![img1](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.32.11%20PM.png)
 
 The NWSS consists of household surveys which surveyed 201,842 households across 36 states, a national spatial inventory of 89,721 water points, 5,100 water schemes, and a survey on access to WASH in over 50,000 public facilities. All households and surveys points were geo-referenced to provide latitude and longitude coordinates. The method used in this researcher to map indicators of water and sanitation in Nigeria is model-based geostatistics (MBG) which applies statistical principles of modeling to geostatistical problems. Covariance between spatial locations was modeled using a Matern covariance function(determines covariance of two measurements that have different locations) where d(xi ; xj ) is the geographical separation between two points of water access, σ, v, ρ are parameters of the covariance function defining its amplitude, degree of differentiability, and scale, Kv represents the Bessel function of the second kind and Γ is the gamma function.
+
+![img2](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.33.46%20PM.png)
+
 Additionally, rather than looking at simpler non-spatial models to determine the optimum covariate selection to include in the full spatial modeling framework, the research looked at implementing "regularization" in the model which allows large covariates to be added to the main model while sacrificing a small amount of bias for a reduction in variance and reducing the amount of covariate coefficients which reduces the effects of collinearity making the model more fixed and robust. In the regularization functions below, N() is the Gaussian probability distribution function; fₓ is the Gaussian process function; y is the response; μ, C are the mean and covariance functions; and σ²I is error.
+
+![img3](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.34.29%20PM.png)
 
 To implement the above calculations, Bayesian inference was used to provide marginal posterior distributions of the proportion of individuals with access to the specified water/sanitation at each location on a 1 × 1 km spatial grid. Maps were generated in ArcGIS 10.4. 
 
+![img4](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.34.59%20PM.png)
+
 Table 1 shows the coefficients of the covariates used in the model. The  magnitude, direction and significance of the coefficients greatly varied across the indicators which allows relationships to be identified. For example, areas with more nighttime lights were associated with better sewage systems. In Table 2 below, correlation between observed and predicted values were high with 0.8 correlation for most of the indicators while sewerage connection had the lowest correlation of 0.241. The mean absolute errors were of low value indicating good model performance and the mean squared error which measures the model performance (bias and variance) was low as well. 
 
+![img5](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.35.30%20PM.png0
+
 Figure 3 below displays uncertainty levels for specific indicators. The map indicates that areas with high population density will have higher levels of estimated precision and vice versa.  
+
+![img6](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.36.10%20PM.png)
+
 In conclusion, this research gathered information from households, water points, water schemes and geospatial covariates to generate information for seven key indicators of access to WASH at a spatial resolution of 1 × 1 km. Below are two out of seven layer examples. Figure 8 is pipe water on premises and Figure 11 is open defecation. 
 
+![img7](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.36.51%20PM.png)
+
+1[img8](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.37.15%20PM.png)
 
 #### Method 2- Poisson Regression and Multinomial Logistic Regression Model 
 
@@ -36,8 +51,15 @@ In Bola Lukman Solanke's "Marriage Age, Fertility Behavior, and Women’s Empowe
 
 In this study, the results of the poisson regression model are represented as the incident rate ratios (irr) which estimate the incidence of children ever born in a given category. Three poisson regression models were created: 1. model for only age at first marriage 2. model for the socio-economic factors and 3. model for mediating factors. Three other models for multinomial logistic models were created: 1. age at first marriage 2. mediating factors 3. socio-economic factors. In Table 2 below, patterns of marriage, fertility and empowerment across 6 political zones are shown. More than a quarter of women married at the age 14 years or younger but the most common interval was from ages 15-19 in the north-western region. Similarly, the number of marriages at the age of 25 or older was higher in the southern regions. Table 2 also displays contraceptive use. Only 15.7% of women were using at least one method of contraception, with higher use in the south. Pregnancy termination was also higher in the south. Overall, there are higher levels of women empowerment in the south than in the north. 
 
-Table 3 presents the results of the Poisson regression model. All three models indicate that age at first marriage is related to children ever born. In Model 1, the incidence rate of children born for women ages 14 or younger is higher than the incidence rate of children born for women aged 15-19. Model 2 indicates that incidence of children born decreases as the age of first marriage increases. Lastly, in Model 3, incidence of children born was higher for women who had no access to mass media and lower for women who had low to moderate access to mass media.  
+![img9](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.38.00%20PM.png)
+
+Table 3 presents the results of the Poisson regression model. All three models indicate that age at first marriage is related to children ever born. In Model 1, the incidence rate of children born for women ages 14 or younger is higher than the incidence rate of children born for women aged 15-19. Model 2 indicates that incidence of children born decreases as the age of first marriage increases. Lastly, in Model 3, incidence of children born was higher for women who had no access to mass media and lower for women who had low to moderate access to mass media.
+
+![img10](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.38.25%20PM.png)
+
 Table 4 presents the results of the multinomial logistic regression model. Across all three models, age at first marriage has a significant relationship to empowerment. For example in Model 1, the relative risk of being in the high empowerment category instead of moderate category increases by a factor of 2.0988 for those 15 to 19 years of age at first marriage compared to those married at 14 years or less. However, in the low empowerment category,  the relationship between age at first marriage and empowerment was not sta- tistically significant. 
+
+![img11](https://fpate.github.io/workshop3/Screen%20Shot%202020-04-19%20at%203.38.39%20PM.png)
 
 ####Discussion
 
